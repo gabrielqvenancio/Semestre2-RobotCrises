@@ -1,0 +1,338 @@
+# depslib dependency file v1.0
+1634442610 source:c:\users\guilh\onedrive\documentos\github\projeto1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+
+1634440690 source:c:\users\guilh\onedrive\documentos\github\projeto1\projeto pasta\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+
+1634440690 source:c:\users\guilh\onedrive\documentos\github\projeto1\projeto_pasta\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+
+1634867084 source:c:\users\guilh\onedrive\documentos\github\projeto1\pasta principal\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<time.h>
+	<windows.h>
+	<math.h>
+
+1634860339 source:c:\users\guilh\onedrive\documentos\github\projeto1\pasta principal\mapa.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<time.h>
+	<windows.h>
+	<math.h>
+
+1634869601 source:c:\users\guilh\onedrive\documentos\github\projeto1\pasta principal\robos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<time.h>
+	<windows.h>
+	<math.h>
+
+1634867086 source:c:\users\usuario\desktop\programação\pasta principal\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<time.h>
+	<windows.h>
+	<math.h>
+
+1634860340 source:c:\users\usuario\desktop\programação\pasta principal\mapa.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<time.h>
+	<windows.h>
+	<math.h>
+
+1634881639 source:c:\users\usuario\desktop\programação\pasta principal\robos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<time.h>
+	<windows.h>
+	<math.h>
+
+1635386564 source:c:\users\guilh\onedrive\documentos\github\projeto1\pasta principal v2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<time.h>
+	<windows.h>
+	<math.h>
+
+1635631560 source:c:\users\guilh\onedrive\documentos\github\projeto1\pasta principal v2\mapa.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<time.h>
+	<windows.h>
+	<math.h>
+
+1634930937 source:c:\users\guilh\onedrive\documentos\github\projeto1\pasta principal v2\robos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<time.h>
+	<windows.h>
+	<math.h>
+
+1635661623 source:c:\users\guilh\onedrive\documentos\github\projeto1\pasta principal v2\robosdiaa.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<time.h>
+	<windows.h>
+	<math.h>
+
+1634946639 source:c:\users\guilh\onedrive\documentos\github\projeto1\pasta principal v2\itens.c
+
+1635657739 source:c:\users\guilh\onedrive\documentos\github\projeto1\pasta principal v2\robosnoite.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<time.h>
+	<windows.h>
+	<math.h>
+
+1634946640 source:c:\users\usuario\desktop\pasta principal v2\itens.c
+
+1635386566 source:c:\users\usuario\desktop\pasta principal v2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<time.h>
+	<windows.h>
+	<math.h>
+
+1635631562 source:c:\users\usuario\desktop\pasta principal v2\mapa.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<time.h>
+	<windows.h>
+	<math.h>
+
+1635657740 source:c:\users\usuario\desktop\pasta principal v2\robosnoite.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<time.h>
+	<windows.h>
+	<math.h>
+
+1635693358 source:c:\users\usuario\desktop\pasta principal v2\robosdiaa.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<time.h>
+	<windows.h>
+	<math.h>
+
+1634946640 source:c:\users\guilh\onedrive\documentos\github\projeto1\pasta principal v3\itens.c
+
+1635631562 source:c:\users\guilh\onedrive\documentos\github\projeto1\pasta principal v3\mapa.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<time.h>
+	<windows.h>
+	<math.h>
+
+1635794982 source:c:\users\guilh\onedrive\documentos\github\projeto1\pasta principal v3\robosdiaa.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<time.h>
+	<windows.h>
+	<math.h>
+
+1635793322 source:c:\users\guilh\onedrive\documentos\github\projeto1\pasta principal v3\robosnoite.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<time.h>
+	<windows.h>
+	<math.h>
+
+1635792945 source:c:\users\guilh\onedrive\documentos\github\projeto1\pasta principal v3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<time.h>
+	<windows.h>
+	<math.h>
+
+1634946640 source:c:\users\usuario\desktop\pasta principal v4\itens.c
+
+1635792946 source:c:\users\usuario\desktop\pasta principal v4\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<time.h>
+	<windows.h>
+	<math.h>
+
+1635631562 source:c:\users\usuario\desktop\pasta principal v4\mapa.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<time.h>
+	<windows.h>
+	<math.h>
+
+1635798343 source:c:\users\usuario\desktop\pasta principal v4\robosdiaa.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<time.h>
+	<windows.h>
+	<math.h>
+
+1635802416 source:c:\users\usuario\desktop\pasta principal v4\robosnoite.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<time.h>
+	<windows.h>
+	<math.h>
+
+1635997927 source:c:\users\guilh\onedrive\documentos\github\projeto1\pasta principal v5\itens.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<time.h>
+	<windows.h>
+	<math.h>
+	<sys/time.h>
+
+1636087788 source:c:\users\guilh\onedrive\documentos\github\projeto1\pasta principal v5\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<time.h>
+	<windows.h>
+	<math.h>
+	<sys/time.h>
+
+1636072675 source:c:\users\guilh\onedrive\documentos\github\projeto1\pasta principal v5\mapa.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<time.h>
+	<windows.h>
+	<math.h>
+	<sys/time.h>
+
+1636073954 source:c:\users\guilh\onedrive\documentos\github\projeto1\pasta principal v5\robosdiaa.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<time.h>
+	<windows.h>
+	<math.h>
+	<sys/time.h>
+
+1635997927 source:c:\users\guilh\onedrive\documentos\github\projeto1\pasta principal v5\robosnoite.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<time.h>
+	<windows.h>
+	<math.h>
+	<sys/time.h>
+
+1635997927 source:c:\users\guilh\onedrive\documentos\github\projeto1\pasta principal v7\itens.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<time.h>
+	<windows.h>
+	<math.h>
+	<sys/time.h>
+
+1636747879 source:c:\users\guilh\onedrive\documentos\github\projeto1\pasta principal v7\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<time.h>
+	<windows.h>
+	<math.h>
+	<sys/time.h>
+	<locale.h>
+
+1636165750 source:c:\users\guilh\onedrive\documentos\github\projeto1\pasta principal v7\mapa.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<time.h>
+	<windows.h>
+	<math.h>
+	<sys/time.h>
+	<locale.h>
+
+1636170868 source:c:\users\guilh\onedrive\documentos\github\projeto1\pasta principal v7\robosdiaa.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<time.h>
+	<windows.h>
+	<math.h>
+	<sys/time.h>
+	<locale.h>
+
+1636661642 source:c:\users\guilh\onedrive\documentos\github\projeto1\pasta principal v7\robosnoite.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<time.h>
+	<windows.h>
+	<math.h>
+	<sys/time.h>
+	<locale.h>
+
