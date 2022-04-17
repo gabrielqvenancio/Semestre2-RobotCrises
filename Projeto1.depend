@@ -336,3 +336,71 @@
 	<sys/time.h>
 	<locale.h>
 
+1650046165 source:c:\users\usuário\documents\github\sem2-project1robotcrises\mapa.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<time.h>
+	<windows.h>
+	<math.h>
+	<sys/time.h>
+	<locale.h>
+
+1650046165 source:c:\users\usuário\documents\github\sem2-project1robotcrises\robosdiaa.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<time.h>
+	<windows.h>
+	<math.h>
+	<sys/time.h>
+	<locale.h>
+
+1650046165 source:c:\users\usuário\documents\github\sem2-project1robotcrises\robosnoite.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<time.h>
+	<windows.h>
+	<math.h>
+	<sys/time.h>
+	<locale.h>
+
+1650057523 source:c:\users\usuário\documents\github\sem2-project1robotcrises\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<time.h>
+	<windows.h>
+	<math.h>
+	<sys/time.h>
+	<locale.h>
+
+1650056266 source:c:\users\usuário\documents\github\sem2-project1robotcrises\prints.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<time.h>
+	<windows.h>
+	<math.h>
+	<sys/time.h>
+	<locale.h>
+
+1650056598 source:c:\users\usuário\documents\github\sem2-project1robotcrises\jogo.c
+
+1650057606 source:c:\users\usuário\documents\github\sem2-project1robotcrises\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<time.h>
+	<windows.h>
+	<math.h>
+	<sys/time.h>
+	<locale.h>
+
